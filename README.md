@@ -29,10 +29,9 @@
 
 <p class=MsoNormal>環境問題は目に見えない形でも身近に存在しています。その中でも一番目に見えて、自分の肌で感じいることができる地球温暖化について焦点を当てていきたいと思います。</p>
 
-<img src="https://github.com/KaitoIkeuchi/Kankyou.com/blob/main/工場.jpg"><img src="https://github.com/KaitoIkeuchi/Kankyou.com/blob/main/海面上昇.jpg"><img src="https://github.com/KaitoIkeuchi/Kankyou.com/blob/main/フロンガス.jpg">
+<img src="https://github.com/KaitoIkeuchi/Kankyou.com/blob/main/工場.jpg"><a href="https://kaitoikeuchi.github.io/Kankyou.com/プロスタ.htm">工場</a>　　<img src="https://github.com/KaitoIkeuchi/Kankyou.com/blob/main/海面上昇.jpg"><a href="https://kaitoikeuchi.github.io/Kankyou.com/工場による地球温暖化の影響.html">海面上昇</a><img src="https://github.com/KaitoIkeuchi/Kankyou.com/blob/main/フロンガス.jpg">　<a href="https://kaitoikeuchi.github.io/Kankyou.com/2.htm">フロンガス</a>
 
-<p class=MsoNormal>　　　　　　　　　　　　　　<a href="https://kaitoikeuchi.github.io/Kankyou.com/工場による地球温暖化の影響.html">海面上昇</a>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<a href="https://kaitoikeuchi.github.io/Kankyou.com/プロスタ.htm">工場</a>　　　　　　　　　　　　　　　　　　　　<a href="https://kaitoikeuchi.github.io/Kankyou.com/2.htm">フロンガス</a>
-
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 <p class=MsoNormal><span lang=RU>&nbsp;</span></p>
 
 <p class=MsoNormal><span lang=RU>&nbsp;</span></p>
