@@ -46,8 +46,4 @@
 
 <p class=MsoNormal><span lang=RU>&nbsp;</span></p>
 
-</div>
 
-</body>
-
-</html>
