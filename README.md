@@ -33,7 +33,7 @@
 
 <img src="海面上昇.jpg"><a href="https://kaitoikeuchi.github.io/Kankyou.com/工場による地球温暖化の影響.html">海面上昇</a>
 
-<img src="フロンガス.jpg">　<a href="https://kaitoikeuchi.github.io/Kankyou.com/2.htm">フロンガス</a>
+<img src="フロンガス.jpg">　<a href="https://kaitoikeuchi.github.io/Kankyou.com/フロンによるオゾン層の破壊２.htm">フロンガス</a>
 
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 <p class=MsoNormal><span lang=RU>&nbsp;</span></p>
