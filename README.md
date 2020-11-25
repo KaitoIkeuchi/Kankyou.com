@@ -14,16 +14,16 @@
 
 <p class=MsoNormal>目次</p>
 
-<li>
- <ul>始めに</ul>
+<ul>
+ <li>始めに</li>
 
-<ul>工場</ul>
+ <li>工場</li>
 
-<ul>海面上昇</ul>
+ <li>海面上昇</li>
 
-<ul>フロンガス</ul>
+ <li>フロンガス</uli>
 
-</li>
+</ul>
 
 <p class=MsoNormal>始めに</p>
 
