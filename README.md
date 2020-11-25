@@ -1,37 +1,6 @@
 <html>
 
 <head>
-<meta http-equiv=Content-Type content="text/html; charset=shift_jis">
-<meta name=Generator content="Microsoft Word 15 (filtered)">
-<style>
-<!--
- /* Font Definitions */
- @font-face
-	{font-family:"Cambria Math";
-	panose-1:2 4 5 3 5 4 6 3 2 4;}
-@font-face
-	{font-family:游明朝;
-	panose-1:2 2 4 0 0 0 0 0 0 0;}
-@font-face
-	{font-family:"\@游明朝";}
- /* Style Definitions */
- p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{margin:0mm;
-	text-align:justify;
-	text-justify:inter-ideograph;
-	font-size:10.5pt;
-	font-family:"游明朝",serif;}
-.MsoChpDefault
-	{font-family:"游明朝",serif;}
- /* Page Definitions */
- @page WordSection1
-	{size:595.3pt 841.9pt;
-	margin:99.25pt 30.0mm 30.0mm 30.0mm;
-	layout-grid:18.0pt;}
-div.WordSection1
-	{page:WordSection1;}
--->
-</style>
 
 </head>
 
@@ -45,13 +14,16 @@ div.WordSection1
 
 <p class=MsoNormal>目次</p>
 
-<p class=MsoNormal>始めに</p>
+<li>
+ <ul>始めに</ul>
 
-<p class=MsoNormal>工場</p>
+<ul>工場</ul>
 
-<p class=MsoNormal>海面上昇</p>
+<ul>海面上昇</ul>
 
-<p class=MsoNormal>フロンガス</p>
+<ul>フロンガス</ul>
+
+</li>
 
 <p class=MsoNormal>始めに</p>
 
