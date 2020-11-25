@@ -31,7 +31,7 @@
 
 <img src="https://github.com/KaitoIkeuchi/Kankyou.com/blob/main/工場.jpg"><img src="https://github.com/KaitoIkeuchi/Kankyou.com/blob/main/海面上昇.jpg"><img src="https://github.com/KaitoIkeuchi/Kankyou.com/blob/main/フロンガス.jpg">
 
-<p class=MsoNormal>　　　　　　　　　　　　　　<a href="https://kaitoikeuchi.github.io/Kankyou.com/工場による地球温暖化の影響.html">工場</a>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　海面上昇　　　　　　　　　　　　　　　　　　　　フロンガス</p>
+<p class=MsoNormal>　　　　　　　　　　　　　　<a href="https://kaitoikeuchi.github.io/Kankyou.com/工場による地球温暖化の影響.html">海面上昇</a>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　<a href="https://kaitoikeuchi.github.io/Kankyou.com/プロスタ.htm">工場</a>　　　　　　　　　　　　　　　　　　　　<a href="https://kaitoikeuchi.github.io/Kankyou.com/2.htm">フロンガス</a>
 
 <p class=MsoNormal><span lang=RU>&nbsp;</span></p>
 
