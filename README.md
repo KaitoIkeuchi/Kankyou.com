@@ -30,7 +30,9 @@
 <p class=MsoNormal>環境問題は目に見えない形でも身近に存在している。しかし、内閣府の調査では環境問題に対しての関心は高まりつつはあるが未だに興味関心を持たない人が40%程いる。なのでその中でも一番目に見えて、自分の肌で感じいることができる地球温暖化について焦点を当てていきたいと思う。</p>
 
 <img src="工場.jpg"><a href="https://kaitoikeuchi.github.io/Kankyou.com/プロスタ.htm">工場</a>　　
+
 <img src="海面上昇.jpg"><a href="https://kaitoikeuchi.github.io/Kankyou.com/工場による地球温暖化の影響.html">海面上昇</a>
+
 <img src="フロンガス.jpg">　<a href="https://kaitoikeuchi.github.io/Kankyou.com/2.htm">フロンガス</a>
 
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
