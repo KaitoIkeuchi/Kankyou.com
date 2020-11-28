@@ -1,7 +1,9 @@
 <html>
 
 <head>
-
+<style>
+ body{background:#008000;}
+</style>
 </head>
 
 <body lang=JA style='word-wrap:break-word;text-justify-trim:punctuation'>
