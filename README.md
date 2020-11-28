@@ -2,7 +2,10 @@
 
 <head>
 <style>
- body{background:#7fffd4;}
+ body{
+ background:#7fffd4;
+ font-family:Garamond
+ }
 </style>
 </head>
 
