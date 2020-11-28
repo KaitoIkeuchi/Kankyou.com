@@ -4,7 +4,7 @@
 <style>
  body{
  background:#7fffd4;
- font-family:Garamond
+ font-family:HG行書体;
  }
 </style>
 </head>
@@ -26,7 +26,7 @@
 
  <li>海面上昇</li>
 
- <li>フロンガス</uli>
+ <li>フロンガス</li>
 
 </ul>
 
