@@ -2,10 +2,10 @@
 
 <head>
 <style>
- body{
- background:#7fffd4;
- font-family:HG行書体;
- }
+ body
+ {background:#7fffd4;}
+ {font-family:HG行書体;}
+ {margin: 30px auto;}
 </style>
 </head>
 
