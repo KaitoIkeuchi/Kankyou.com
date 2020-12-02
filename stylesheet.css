@@ -4,23 +4,17 @@
   font-family:sans-serif;
 }
 
-
-
-a.btn--red.btn--cubic {
-  border-bottom: 5px solid #9f000c;
+.btn--orange,
+a.btn--orange {
+  color: #fff;
+  background-color: #eb6100;
 }
-
-a.btn--red.btn--cubic:hover {
-  margin-top: 3px;
-  border-bottom: 2px solid #9f000c;
+.btn--orange:hover,
+a.btn--orange:hover {
+  color: #fff;
+  background: #f56500;
 }
 
 a.btn--radius {
-  border-radius: 100vh;
-}
-
-.fa-position-right {
-  position: absolute;
-  top: calc(50% - .5em);
-  right: 1rem;
+   border-radius: 100vh;
 }
