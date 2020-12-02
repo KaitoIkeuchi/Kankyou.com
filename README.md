@@ -46,6 +46,8 @@
 
 <p class=MsoNormal><span lang=RU>&nbsp;</span></p>
 
+<p class=MsoNormal><a href="https://kaitoikeuchi.github.io/Kankyou.com/おわりに.htm">終わりに</a></p>
+
 <p class=MsoNormal>概要</p>
 
 <p class=MsoNormal>メンバー<span lang=RU>(</span>佐々木、丸山、勝股、稗田、曽根、池内<span lang=RU>)</span></p>
