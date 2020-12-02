@@ -4,20 +4,7 @@
   font-family:sans-serif;
 }
 
-.btn--orange,
-a.btn--orange {
-  color: #fff;
-  background-color: #eb6100;
-}
-.btn--orange:hover,
-a.btn--orange:hover {
-  color: #fff;
-  background: #f56500;
-}
 
-a.btn--radius {
-   border-radius: 100vh;
-}
 
 a.btn--red.btn--cubic {
   border-bottom: 5px solid #9f000c;
