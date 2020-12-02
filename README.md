@@ -36,6 +36,8 @@
 
 <img src="工場.jpg"><a href="https://kaitoikeuchi.github.io/Kankyou.com/プロスタ.htm">工場</a>
 
+<a href="https://kaitoikeuchi.github.io/Kankyou.com/工場による地球温暖化の影響.html" class="btn btn--orange btn--radius">海面上昇</a>
+
 <p class=MsoNormal><img src="海面上昇.jpg"><a href="https://kaitoikeuchi.github.io/Kankyou.com/工場による地球温暖化の影響.html">海面上昇</a></p>
 
 <p class=MsoNormal><img src="フロンガス.jpg">　<a href="https://kaitoikeuchi.github.io/Kankyou.com/フロンによるオゾン層の破壊２.htm" class="btn btn--yellow btn--cubic">フロンガス</a></p>
