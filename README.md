@@ -38,18 +38,7 @@
 
 <p class=MsoNormal><img src="海面上昇.jpg"><a href="https://kaitoikeuchi.github.io/Kankyou.com/工場による地球温暖化の影響.html">海面上昇</a></p>
 
-<p class=MsoNormal><img src="フロンガス.jpg">　<a href="https://kaitoikeuchi.github.io/Kankyou.com/フロンによるオゾン層の破壊２.htm" class="btn btn--yellow btn--cubic">フロンガス</a>a.btn--yellow {
-  color: #000;
-  background-color: #fff100;
-  border-bottom: 5px solid #ccc100;
-}
-
-a.btn--yellow:hover {
-  margin-top: 3px;
-  color: #000;
-  background: # fff20a;
-  border-bottom: 2px solid #ccc100;
-}</p>
+<p class=MsoNormal><img src="フロンガス.jpg">　<a href="https://kaitoikeuchi.github.io/Kankyou.com/フロンによるオゾン層の破壊２.htm" class="btn btn--yellow btn--cubic">フロンガス</a></p>
 
 
 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
